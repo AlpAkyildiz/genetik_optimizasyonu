@@ -11,9 +11,9 @@ Amaç, raf yüksekliği (x₁) ve raf derinliği (x₂) değerlerini seçerek de
     y=4x1​+3x2​−0.5x1​x2​
 
     Kısıtlar: 
-     x1​ + x2​ ≤ 8
-       x2​ ≥ 1.5
-       2 ≤ x1​ ≤ 6
+      x1​ + x2​ ≤ 8
+      x2​ ≥ 1.5
+      2 ≤ x1​ ≤ 6
       1 ≤ x2 ​≤ 4
 
 Fonksiyon doğrusal olmadığı için çözüm Genetik Algoritma ile gerçekleştirilmiştir.
